@@ -1,5 +1,5 @@
 const path = require("path");
-const merge = require('webpack-merge')
+const {merge} = require('webpack-merge')
 const { HotModuleReplacementPlugin, DefinePlugin } = require('webpack')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const {GitRevisionPlugin} = require('git-revision-webpack-plugin')
