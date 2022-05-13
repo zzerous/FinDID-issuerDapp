@@ -1,4 +1,4 @@
-# did-verifier-dapp
+# did-issuer-dapp
 
 
 ### Getting started
@@ -6,4 +6,4 @@
 2. Clone the repo
 3. Run `npm install` to install node packages
 4. Run `npm run local`
-5. App should be running in https://localhost:8888
+5. App should be running in https://localhost:8080
