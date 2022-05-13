@@ -1,4 +1,4 @@
-# did-issuer-dapp
+# did-issuer-dapp (node version 14.16.0)
 
 
 ### Getting started
